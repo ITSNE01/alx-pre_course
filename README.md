@@ -1,1 +1,1 @@
-My first readme
+My learning journey has started!
